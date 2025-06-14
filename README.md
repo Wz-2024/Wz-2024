@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20WangZhen🧨&descAlign=66" />
 </p>
 
-## Status
+## Status🤗
 ![Wz-2024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wz-2024&show_icons=True&theme=highcontrast) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wz-2024&layout=compact)
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about **Diffusion Model**,**The mathematical principle of the diffusion model**
 - 📫 How to reach me ![Static Badge](https://img.shields.io/badge/Email-tuobazhen%40yeah.net-blue)
 ## News
-[2024-12] I uploaded my first article as the first author on ArXiv😭 [![Static Badge](https://img.shields.io/badge/ArXiv-Diffusion%20Model%20From%20Scratch-red?labelColor=red&color=gray)(https://arxiv.org/abs/2412.10824v1)]
+[2024-12] I uploaded my first article as the first author on ArXiv😭 [![Static Badge](https://img.shields.io/badge/ArXiv-Diffusion%20Model%20From%20Scratch-red?labelColor=red&color=gray)](https://arxiv.org/abs/2412.10824v1)
 
 ![Visitor Conut](https://profile-counter.glitch.me/Wz-2024/count.svg)
 
