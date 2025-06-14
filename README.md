@@ -13,7 +13,7 @@
 - 💬 Ask me about **Diffusion Model**,**The mathematical principle of the diffusion model**
 - 📫 How to reach me ![Static Badge](https://img.shields.io/badge/Email-tuobazhen%40yeah.net-blue)
 ## News
-[2024-12] I uploaded my first article as the first author on ArXiv ![Static Badge](https://img.shields.io/badge/ArXiv-Diffusion%20Model%20From%20Scratch-red?labelColor=red&color=gray)
+[2024-12] I uploaded my first article as the first author on ArXiv😭 [![Static Badge](https://img.shields.io/badge/ArXiv-Diffusion%20Model%20From%20Scratch-red?labelColor=red&color=gray)(https://arxiv.org/abs/2412.10824v1)]
 
 ![Visitor Conut](https://profile-counter.glitch.me/Wz-2024/count.svg)
 
