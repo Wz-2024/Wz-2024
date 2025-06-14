@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Diffusion Model**,**🧨🧨Diffuser**
 - 💬 Ask me about **Diffusion Model**,**The mathematical principle of the diffusion model**
 - 📫 How to reach me ![Static Badge](https://img.shields.io/badge/Email-tuobazhen%40yeah.net-blue)
-
+😭
 ![Visitor Conut](https://profile-counter.glitch.me/Wz-2024/count.svg)
 
 
