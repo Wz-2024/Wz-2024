@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20WangZhen🧨&descAlign=66" />
 </p>
+
 ## Status
 ![Wz-2024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wz-2024&show_icons=True&theme=highcontrast) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wz-2024&layout=compact)
