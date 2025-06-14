@@ -6,7 +6,7 @@
 </p>
 
 ## Status🤗
-![Wz-2024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wz-2024&show_icons=True&theme=highcontrast)
+![Wz-2024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wz-2024&show_icons=True&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wz-2024&layout=compact)
 
 - 🔭 I’m currently doing my research in **National Pilot School of Software,Yunnan University Engineering Research Center of Cyberspace**
