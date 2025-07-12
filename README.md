@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wz-2024&layout=compact)
 
 - 🔭 I’m currently doing my research in **National Pilot School of Software,Yunnan University Engineering Research Center of Cyberspace**
-- 🌱 I’m currently learning **Diffusion Model**,**🧨 🧨Diffuser**
+- 🌱 I’m currently learning **Diffusion Model**,**🧨🧨Diffuser**
 - 💬 Ask me about **Diffusion Model**,**The mathematical principle of the diffusion model**
 - 📫 How to reach me ![Static Badge](https://img.shields.io/badge/Email-tuobazhen%40yeah.net-blue)
 ## News
