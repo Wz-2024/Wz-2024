@@ -16,6 +16,5 @@
 ## News
 [2024-12] I uploaded my first article as the first author on ArXiv😭 [![Static Badge](https://img.shields.io/badge/ArXiv-Diffusion%20Model%20From%20Scratch-red?labelColor=red&color=gray)](https://arxiv.org/abs/2412.10824v1) <br>
 [2025-6] Gao Linghao, Bi Zhouming and I won the **Silver Medal**  in The **2025 ICPC Sichuan Provincial Collegiate Programming Contest!!!** 🎉🎉<br> 
-![Visitor Conut](https://profile-counter.glitch.me/Wz-2024/count.svg)
 
 
